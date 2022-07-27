@@ -1,5 +1,5 @@
 {
-  "future_release":"2.0.20220728",
-  "description":"Fixed Zip header error.\n\nThanks for download!",
-  "link":"https://raw.githubusercontent.com/lighfu/Automate-Sweetlink/main/ChildProject/SweetFiler/releases/v2-20220728.zip"
+  "future_release":"3.0.20220728",
+  "description":"- Fixed Zip header error.\n- Fixed File position.\n\nThanks for download!",
+  "link":"https://raw.githubusercontent.com/lighfu/Automate-Sweetlink/main/ChildProject/SweetFiler/releases/v3-20220728.zip"
 }
